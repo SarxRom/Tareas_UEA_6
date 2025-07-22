@@ -1,0 +1,49 @@
+body{
+    background-color: #000000;
+}
+
+h1{
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif, cursive;
+    text-align: center;
+    font-size: 78px;
+
+}
+
+h2{
+    color: #ff0000;
+    font-family: 'Arial, Helvetica, sans-serif';
+    text-align: center;
+    font-size: 30px;
+
+}
+
+h3{
+    color: #656262;
+    font-family: 'Courier New';
+    text-align: center;
+    font-size: 15px;
+}
+
+p{
+    color: #953b3b;
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+
+div{
+    margin: 35px;
+    color: #505050;
+    font-family: 'Lucida Console';
+}
+
+.fotos{
+    border-radius: 5px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
