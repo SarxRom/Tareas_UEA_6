@@ -50,13 +50,5 @@ div{
 
 
 @media (max-width: 600px) {
-    body {
-        background-color: #000000;
-    }
-    header {
-        font-size: 18px;
-    }
-    .card {
-        padding: 15px;
-    }
+   
 }
