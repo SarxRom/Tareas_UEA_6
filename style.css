@@ -47,3 +47,16 @@ div{
     align-items: center;
     gap: 5px;
 }
+
+
+@media (max-width: 600px) {
+    body {
+        background-color: #eafaf1;
+    }
+    header {
+        font-size: 18px;
+    }
+    .card {
+        padding: 15px;
+    }
+}
